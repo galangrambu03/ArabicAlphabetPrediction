@@ -68,7 +68,7 @@ The ultimate goal is to understand dataset patterns, build an accurate classific
 git clone [https://github.com/galangrambu03/ArabicAlphabetPrediction.git](https://github.com/galangrambu03/ArabicAlphabetPrediction.git)
 
 # 2. Go to the project directory
-cd arabic-character-recognition
+cd ArabicAlphabetPrediction
 
 # 3. Install required libraries
 pip install pandas numpy scikit-learn matplotlib seaborn
